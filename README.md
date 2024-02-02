@@ -4,3 +4,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=pompmpur1nn&color=brightgreen" alt="watching_count" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pompompur1nn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p>discord:pompompur.in</p>
